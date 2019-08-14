@@ -1,0 +1,7 @@
+{
+  "name": "advanced-rooting-289",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
